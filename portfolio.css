@@ -2,11 +2,12 @@
     padding:0;
     margin:0;
 }
-header{
+body{
     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://images.pexels.com/photos/34676/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     height:100vh;
     background-size: cover;
     background-position: center;
+    background-repeat:no-repeat;
 }
 nav{
    float:right;
@@ -22,10 +23,32 @@ nav li a{
     padding: 5px 30px;
     font-family: "Roboto", sans-serif;
     font-size: 20px;
+    
 }
-a:hover{
+nav a:hover{
     border:2px solid white;
 }
 
+h1{
+    font-family:monospace;
+    padding-top:200px;
+    text-align:center;
+    color:lightslategrey;
+
+}
+#one{
+    text-align:center;
+    padding-top:20px;
+    color:lightslategrey;
+    font-size:20px;
+    font-family:cursive;
+    font-weight: bold;
 
 
+}
+.two {
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    margin: 30px;
+    line-height:1.8;
+}
