@@ -67,14 +67,14 @@ h1{
 p{
     color:lightblue;
 }
-.third{
+#third{
     font-family:'Courier New', Courier, monospace;
     padding: 10px;
     margin: 30px;
     line-height:1.8; 
     text-align: center;
 }
-.third a{
+#third a{
     display:inline;color: darkgrey;
     font-size:25px;
     margin: 0 5px;
