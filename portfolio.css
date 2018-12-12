@@ -67,3 +67,24 @@ h1{
 p{
     color:lightblue;
 }
+.third{
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    margin: 30px;
+    line-height:1.8; 
+    text-align: center;
+}
+.third a{
+    display:inline;color: darkgrey;
+    font-size:25px;
+    margin: 0 5px;
+    text-align: center;
+ }
+ h3{
+     font-size: 20px;
+     color: lightcoral;
+ }
+ h2{
+    font-size: 30px;
+     color: lightcoral; 
+ }
