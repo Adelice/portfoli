@@ -12,11 +12,11 @@ and chrome to see some result```
 
 
 ### Authors
-```Umurerwa Divine```
+```Umutoniwase Nancy Adelice```
 
 ### license and copyright
 
 
 ### link to live site on GitHub Pages
 
-```https://github.com/UmurerwaDivine/my-first-project``` 
+```https://github.com/Adelice/Portfolio``` 
