@@ -4,7 +4,7 @@
     font-weight:500px;
 }
 body{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://images.pexels.com/photos/34676/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('https://images.pexels.com/photos/2148217/pexels-photo-2148217.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     
     background-size: cover;
     background-position: center;
@@ -36,6 +36,7 @@ h1{
     padding-top:200px;
     text-align:center;
     color:lightslategrey;
+    font-size: 50px;
 
 }
 #one{
@@ -90,4 +91,8 @@ p{
  }
  #project{
     font-weight:bolder; 
+ }
+ li{
+     display:flex;
+     margin:20px;
  }
